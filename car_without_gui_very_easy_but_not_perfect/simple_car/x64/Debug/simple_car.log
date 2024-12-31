@@ -1,0 +1,7 @@
+﻿  main.cpp
+  serial.cpp
+C:\Users\LENOVO\Desktop\simple_car - 副本\simple_car\serial.cpp(15,39): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\LENOVO\Desktop\simple_car - 副本\simple_car\serial.cpp(41,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\simple_car - 副本\simple_car\serial.cpp(43,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  simple_car.vcxproj -> C:\Users\LENOVO\Desktop\simple_car - 副本\x64\Debug\simple_car.exe
